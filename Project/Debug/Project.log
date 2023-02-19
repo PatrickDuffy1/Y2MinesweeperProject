@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\College\OneDrive - Atlantic TU\C\Project\Project\Project\Source.c(100,52): warning C4020: 'clearEmptyTiles': too many actual parameters
+C:\Users\College\OneDrive - Atlantic TU\C\Project\Project\Project\Source.c(52,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\College\OneDrive - Atlantic TU\C\Project\Project\Project\Source.c(267,1): warning C4029: declared formal parameter list different from definition
+  Project.vcxproj -> C:\Users\College\OneDrive - Atlantic TU\C\Project\Project\Debug\Project.exe
